@@ -1,4 +1,4 @@
-# Ineractive dashaboard with COVID data
+# Interactive dashaboard with COVID data
 ## Project objective
 1. Compare deaths per million in Latin America
 2. Compare the number of diagnosed COVID cases in Latin America
